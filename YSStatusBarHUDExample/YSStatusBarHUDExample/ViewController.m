@@ -40,5 +40,14 @@
     [YSStatusBarHUD showSuccess:@"加载成功!"];
 }
 
+- (void)show {
+    
+    
+}
+
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
 
 @end
