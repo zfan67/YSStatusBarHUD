@@ -10,5 +10,7 @@
 
 @interface ViewController : UIViewController
 
+@property (nonatomic, copy) NSString *Num;
+
 @end
 
